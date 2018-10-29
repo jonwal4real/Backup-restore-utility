@@ -1,2 +1,2 @@
-# Backup-restore-utility
-Backup/Restore utility similar to linux using rsync for remote and local file backup/restore.
+# Backup-Restore-Utility
+Backup and restoreutlity for linux based system using rsync and crontabs
